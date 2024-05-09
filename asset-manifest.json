@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.c6eede53.css",
+    "main.js": "/React-App/static/js/main.7a012f86.js",
+    "static/js/453.80bd2783.chunk.js": "/React-App/static/js/453.80bd2783.chunk.js",
+    "static/media/zara9.jpg": "/React-App/static/media/zara9.264c3e038437219a50b3.jpg",
+    "static/media/cout.jpg": "/React-App/static/media/cout.d220da7a24accefe80f0.jpg",
+    "static/media/zara.jpg": "/React-App/static/media/zara.17ab58bee6b3c2161492.jpg",
+    "static/media/zara3.jpg": "/React-App/static/media/zara3.9062d2d710096236d015.jpg",
+    "static/media/zara2.jpg": "/React-App/static/media/zara2.7873fb31bfbc10a3bd8f.jpg",
+    "static/media/blizer.jpg": "/React-App/static/media/blizer.6cd7031d9a30c0ee8cc1.jpg",
+    "static/media/zara7.jpg": "/React-App/static/media/zara7.f0d1e991149f10c12282.jpg",
+    "static/media/zara6.jpg": "/React-App/static/media/zara6.6fd69cecdd8447e8d77e.jpg",
+    "static/media/zar1.avif": "/React-App/static/media/zar1.4f7327ff57772237f7c0.avif",
+    "static/media/zara8.jpg": "/React-App/static/media/zara8.1b970ecbf7240b98922b.jpg",
+    "index.html": "/React-App/index.html",
+    "main.c6eede53.css.map": "/React-App/static/css/main.c6eede53.css.map",
+    "main.7a012f86.js.map": "/React-App/static/js/main.7a012f86.js.map",
+    "453.80bd2783.chunk.js.map": "/React-App/static/js/453.80bd2783.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6eede53.css",
+    "static/js/main.7a012f86.js"
+  ]
+}
